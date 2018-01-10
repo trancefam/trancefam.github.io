@@ -1,0 +1,9 @@
+body {
+  background-color: #ececec;
+}
+
+.LI-profile-badge {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
